@@ -1,21 +1,9 @@
 # Genetic
 
-**TODO: Add description**
+Reading the book Genetic Algorithms in Elxiir. Code is directly from the book.
 
-## Installation
+## Running scripts
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `genetic` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:genetic, "~> 0.1.0"}
-  ]
-end
+```shell
+mix run scripts/script_name.exs
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/genetic>.
-
